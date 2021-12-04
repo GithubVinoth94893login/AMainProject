@@ -9,3 +9,7 @@ Whatsapp code:
 4. Attachments Code (Audios, Videos, Images)
 
 5.Hiding the last scene
+
+6. Adding the Audio  call feature
+
+7. Adding the video call feature
